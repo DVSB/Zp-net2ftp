@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+<name>Net2ftp</name>
+<version>100</version>
+<defaultcat>File Management</defaultcat>
+<desc>This modules allow you to manager file on broswer.</desc>
+<authorname>WrkZpProject</authorname>
+<authoremail>zp@wrk73.com</authoremail>
+<authorurl>http://www.wrk73.com/</authorurl>
+<updateurl></updateurl>
+</module>
